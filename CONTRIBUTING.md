@@ -1,8 +1,6 @@
 # Contributing
 
-This repository is private and proprietary. It is not open source and is
-not accepting outside contributions.
+This repository is open source, licensed under the MIT License — see
+[LICENSE](LICENSE).
 
-All rights are reserved by the copyright holder — see [LICENSE](LICENSE).
-Access to this repository does not grant permission to copy, modify,
-distribute, or reuse the code.
+Issues and pull requests are welcome.
